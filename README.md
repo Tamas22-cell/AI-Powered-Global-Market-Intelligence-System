@@ -51,3 +51,29 @@ The goal of this project is to combine multiple market data sources into a singl
 ## Status
 
 Active development and research project.
+## Project Visuals
+
+### Macroeconomics & TradFi
+![Macroeconomics and TradFi](macro_tradfi.png)
+
+### Crypto Derivatives
+![Crypto Derivatives](crypto_derivatives.png)
+
+### On-Chain Liquidity
+![On-Chain Liquidity](onchain_liquidity.png)
+
+### Automated Market Intelligence
+![Automated Market Intelligence](automated_market_intelligence.png)
+## Project Visuals
+
+### Macroeconomics & TradFi
+![Macroeconomics & TradFi](macro_tradfi.png)
+
+### Crypto Derivatives
+![Crypto Derivatives](crypto_derivatives.png)
+
+### On-Chain Liquidity
+![On-Chain Liquidity](onchain_liquidity.png)
+
+### Automated Market Intelligence
+![Automated Market Intelligence](automated_market_intelligence.png)
